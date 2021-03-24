@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @najamulsaqib
+# 👋 Hi, I’m Najam Ul Saqib
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning DataScience
 - 💞️ I’m looking to collaborate on DataScience Projects
