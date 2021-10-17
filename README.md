@@ -1,10 +1,9 @@
 # 👋 Hi, I’m Najam Ul Saqib
-- 👀 I’m interested in DataScience
-- 🌱 I’m currently learning DataScience
-- 💞️ I’m looking to collaborate on DataScience Projects
-- 📫 How to reach me Contact me @ 1najamulsaqib@gmail.com
+- 👀 I’m interested in MERN & Flutter
+- 💞️ I’m looking to collaborate on MERN or Flutter Projects
+- 📫 How to reach me @ 1najamulsaqib@gmail.com
 
-<!---
-najamulsaqib/najamulsaqib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Najam's GitHub stats](https://github-readme-stats.vercel.app/api?username=najamulsaqib&show_icons=true&theme=github_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najamulsaqib)](https://github.com/anuraghazra/github-readme-stats)
+
